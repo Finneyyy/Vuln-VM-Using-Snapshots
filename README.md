@@ -9,7 +9,7 @@ For Major Group Project (TUDublin 2019)
   Adam Kelly
   
 
-Box is called The-Box. When making a lab, please make sure to call it that.
+Box is called The-Box. When making a lab, please make sure to call it that. Use 192.168.1.20 as the address for all boxes, please.
 
 
 ### Note: 
