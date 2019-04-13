@@ -7,6 +7,8 @@ Over time, Bit became concerned about the consequences of denying people total s
 
 At some point, Bit gives an encryption key that is instrumental in the downfall of MC Security Solutions to his friend Ciaran for safe keeping.
 
+---
+
 Ciaran:
 Ciaran was born on October, 1996. He grew up in Shanghai until he was 10, giving him a "sort of" knowledge of Chinese. He was alienated for being white, but an illegal hacking  organisation took him under their wing because he could code. Upon coming to Dublin City, he met Bit at a security conference. After this convention, Bit created a private IRC channel, to keep in contact with Ciaran. Later on he added Eoin and CyberChick.
 
@@ -14,12 +16,16 @@ By 2015, Ciaran was employed at a MC Security Solutions. He was dating and livin
 
 After a night of heavy drinking and shenanigans, Bit, Ciaran, Eoin and CyberChick devise a plan to take down MC Security Solutions. Before these events occurred, Bit decided to give the encryption key of `The Box` to Ciaran for safe keeping.
 
+---
+
 Eoin:
 Eoin was born in the mid 1990's. He grew up in the rural parts of Meath, giving him lots of time by himself to mess around with technology. He had a interest in ethical hacking, but after meeting Bit, he became a Black Hat.
 
 Eoin met Bit at a security convention, where he also met Ciaran. After a period of time, he was invited to an IRC channel, where he met CyberChick.
 
 After a night out, and a lot of philosophical discussions, Eoin's view of life would drastically change forever...
+
+---
 
 CyberChick:
 CyberChick was born in the mid to late 1990's. She attended ITB and graduated with a Masters in Applied Cyber Security. Upon graduating, she was headhunted by MC Security Solutions, where she met Ciaran and Bit.
