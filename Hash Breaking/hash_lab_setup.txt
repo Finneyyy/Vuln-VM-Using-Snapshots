@@ -11,16 +11,17 @@ Hash lab: setup
 Get hash of those passwords (or copy the shadow file to a new text file). Put hash of next account into text file, so person has to break another hash to get the password.
 
 Hashes:
-bit: $6$PdkEJWSk$aypWUBqDZSiO1zaozG4rpmW3TIK3EVTjBMtWRAfqFLCE0y2dzWFRL6rLRr2S5kVX6pPkIsJ9D4jCnmaT4HNt:1:18034:0:99999:7:::
+bit:$6$3zAuLSrp$T/0XNsxWA67MKDNhgENlaA2bt7FLgwskAWeDCSht.ER9hVLYIp/1KyWAYK5Z8aKrw5G4vvm00DN5IodsFwN3G.:18036:0:99999:7:::
 
-ciaran: $6$SSsj09KXVXOUvd4z$ObWXT2ichzgdCDjHE5/kfJPSBHvdMNEfarD3g7IcFnh6DUjn8veVxKdkJlzL9q3SWVEtz1Uq.uKQRG02I33AC0:1:18034:0:99999:7:::
+ciaran:$6$aazrVGCoJzTkq/Si$JUtQ8SfTCL508Khc8mjqQq90MsiCjkbygVBLCYF7/rm2UdIlepnwm2219x4ImDFvm3lHl5bpe30W.r6uMh.Xg0:18036:0:99999:7:::
 
-e0in: $6$pj4BQA37bU992S7f$UNA1XIqN1WOu2Ui52W0d0K5/xQr.bgKq8gwl1CqtVy32Zq.QdfKl1SBD7d8/pwVXd2DoAMqARdw/lRaAAgl/:1:18034:0:99999:7:::
+e0in:$6$shb2skCEzIMHcmfl$y0RjNcTfVpweUNFgfhuYnb/AUGtuH83Phq2MzlttUx/Oq5ZIuu5DjL2i/pZoGxd9hPBhN8sNuBUm..48Jz4jk0:17997:0:99999:7:::
 
-cyberchick: $6$f$Zr5tsRPtrqg. URqTa1khClMaP0DX8mzI7M4WmHlGaE0MzL0JHGtzLB2TTrQhdR9545nOmk5CM6xGL46odv3JG:1:18034:0:99999:7:::
+adam:$6$tdJh9dP9ceDOQxSd$SuNnLPgCTYNGvJoUuz.hCFVLGA3oCpd/wPCrS13bOxM69z1PW3Y/6H7Z0whIk0M8IMmEmoTYT.dtyMdHC19/X0:18036:0:99999:7:::
+
 
 Flags:
- bit/root = y0u_fuck1ng_n00bs__h0p3_y0u_3nj0yed_th3-wa1t
+ bit/root = y0u_f**k1ng_n00bs__h0p3_y0u_3nj0yed_th3-wa1t
  ciaran = There's no actual hint for the passwords in the flags for this lab. You shouldve guessed that by now.
  e0in = supported by the national lottery (give me moneys pls)
  cyberchick = gn0m3-1n1t14l_53tup
