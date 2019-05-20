@@ -9,10 +9,11 @@ For Major Group Project (TUDublin 2019)
   Adam Kelly
   
 
-Box is called The-Box. When making a lab, please make sure to call it that. Use 192.168.1.20 as the address for all boxes, please.
+Box is called The-Box. When making a lab, please make sure to call it that. Address range is 10.0.2.0/24 for all boxes.
 
 
 ### Note: 
   When adding files, please put files in the folder of the lab you're working on (Web, FTP, SSH, etc).
   
   11/4/19 - FTP Lab done.
+  19/5/19 - Hash Breaking lab done
