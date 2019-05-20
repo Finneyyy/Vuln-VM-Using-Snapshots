@@ -1,0 +1,17 @@
+Hash lab: setup
+
+4 accounts, 4 passwords.
+ Accounts: bit, ciaran, e0in, cyberchick
+ Passwords: 
+  bit = Try_us1ng_4n_4ctu4l_w0rd-l1st
+  ciaran = 1m_4_wh1t3_h4t
+  e0in = t00_c0mpl1c4t3d
+  cyberchick = c4nt_b3_4rs3d__l34v3_m3_b3
+
+Get hash of those passwords (or copy the shadow file to a new text file). Put hash of next account into text file, so person has to break another hash to get the password.
+
+Flags:
+ bit/root = y0u_fuck1ng_n00bs__h0p3_y0u_3nj0yed_th3-wa1t
+ ciaran = There's no actual hint for the passwords in the flags for this lab. You shouldve guessed that by now.
+ e0in = supported by the national lottery (give me moneys pls)
+ cyberchick = gn0m3-1n1t14l_53tup
