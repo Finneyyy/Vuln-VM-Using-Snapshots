@@ -5,8 +5,7 @@ For Major Group Project (TUDublin 2019)
 
 ## Project Members:
   Eoin Finney, 
-  Ciaran Meade, 
-  Adam Kelly
+  Ciaran Meade
   
 
 Box is called The-Box. When making a lab, please make sure to call it that. Address range is 10.0.2.0/24 for all boxes.
@@ -18,3 +17,5 @@ Box is called The-Box. When making a lab, please make sure to call it that. Addr
   11/4/19 - FTP Lab done.
   
   19/5/19 - Hash Breaking lab done
+
+  16/11/19 - Previous labs fixed, and new labs started
