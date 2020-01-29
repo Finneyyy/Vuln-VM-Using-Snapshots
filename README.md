@@ -18,4 +18,4 @@ Box is called The-Box. When making a lab, please make sure to call it that. Addr
   
   19/5/19 - Hash Breaking lab done
 
-  16/11/19 - Previous labs fixed, and new labs started
+  16/11/19 - Previous labs gone over
